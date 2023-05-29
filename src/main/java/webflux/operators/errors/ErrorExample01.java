@@ -1,6 +1,6 @@
-package com.states.webflux.operators.errors;
+package webflux.operators.errors;
 
-import com.states.webflux.operators.sample_data.Coffee;
+import webflux.operators.sample_data.Coffee;
 import lombok.extern.slf4j.Slf4j;
 import reactor.core.publisher.Mono;
 

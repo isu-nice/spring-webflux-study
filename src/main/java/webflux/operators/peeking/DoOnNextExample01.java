@@ -1,7 +1,7 @@
-package com.states.webflux.operators.peeking;
+package webflux.operators.peeking;
 
-import com.states.webflux.operators.sample_data.Coffee;
-import com.states.webflux.operators.sample_data.SampleData;
+import webflux.operators.sample_data.Coffee;
+import webflux.operators.sample_data.SampleData;
 import lombok.extern.slf4j.Slf4j;
 import reactor.core.publisher.Flux;
 

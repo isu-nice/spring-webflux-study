@@ -1,4 +1,4 @@
-package com.states.webflux.operators.sample_data;
+package webflux.operators.sample_data;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
