@@ -1,6 +1,6 @@
-package webflux.operators.transformation;
+package webflux_basic.operators.transformation;
 
-import webflux.operators.sample_data.SampleData;
+import webflux_basic.operators.sample_data.SampleData;
 import lombok.extern.slf4j.Slf4j;
 import reactor.core.publisher.Flux;
 
